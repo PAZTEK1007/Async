@@ -1,4 +1,4 @@
-# Async
+# Asynchrone Function
 
 Ce référentiel contient différents exercices liés à la programmation asynchrone. Chaque exercice est situé dans une branche correspondante.
 
